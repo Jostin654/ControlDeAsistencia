@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\bin\Debug\net8.0\ControlDeAsistenciaUniversidad.exe
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\bin\Debug\net8.0\ControlDeAsistenciaUniversidad.deps.json
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\bin\Debug\net8.0\ControlDeAsistenciaUniversidad.runtimeconfig.json
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\bin\Debug\net8.0\ControlDeAsistenciaUniversidad.dll
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\bin\Debug\net8.0\ControlDeAsistenciaUniversidad.pdb
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\obj\Debug\net8.0\ControlDeAsistenciaUniversidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\obj\Debug\net8.0\ControlDeAsistenciaUniversidad.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\obj\Debug\net8.0\ControlDeAsistenciaUniversidad.AssemblyInfo.cs
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\obj\Debug\net8.0\ControlDeAsistenciaUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\obj\Debug\net8.0\ControlDeAsistenciaUniversidad.sourcelink.json
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\obj\Debug\net8.0\ControlDeAsistenciaUniversidad.dll
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\obj\Debug\net8.0\refint\ControlDeAsistenciaUniversidad.dll
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\obj\Debug\net8.0\ControlDeAsistenciaUniversidad.pdb
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\obj\Debug\net8.0\ControlDeAsistenciaUniversidad.genruntimeconfig.cache
+C:\Users\LENOVO\Repo\ControlDeAsistenciaUniversidad\obj\Debug\net8.0\ref\ControlDeAsistenciaUniversidad.dll
